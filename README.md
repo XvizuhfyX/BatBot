@@ -1,6 +1,6 @@
 # BatBot
 
->what can you find here
+**what can you find here
 
 - [x] Raw data
 - [x] Command list
