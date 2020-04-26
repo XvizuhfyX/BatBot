@@ -1,2 +1,3 @@
 # BatBot
-Hey this is my github how i made my Discord Bot
+
+[Contribution guidelines for this project](docs/CONTRIBUTING.md)
