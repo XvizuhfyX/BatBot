@@ -1,3 +1,10 @@
 # BatBot
 
-[Contribution guidelines for this project](docs/CONTRIBUTING.md)
+
+[BatBot Support Server](https://discord.gg/yxbJhk7) 
+
+
+## why did i make my bot?
+
+
+
